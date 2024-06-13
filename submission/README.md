@@ -39,3 +39,5 @@ Follow these steps to get the project up and running on your local machine.
 ## Author
 
 - Alex Anthony
+
+https://www.loom.com/share/fe26a5250954469082f49238f0e882d6
